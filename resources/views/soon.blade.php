@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <!--
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-AUTHOR : NCode.Art
-PROJECT NAME : Zest Under-Construction Template
+AUTHOR : Felix Mgeni
+PROJECT NAME : Standard Under Construction
 VERSION : 0.05
 LAYOUT : 5
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -12,7 +12,7 @@ LAYOUT : 5
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>ssstruction Template</title>
+	<title>Standard</title>
 
 	<!-- ( FONT-AWESOME ICON ) -->
 	<link rel="stylesheet" type="text/css" href="/soon/lib/font-awesome-4.3.0/css/font-awesome.min.css">
