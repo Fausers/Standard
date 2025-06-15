@@ -65,23 +65,23 @@ LAYOUT : 5
 						<div class="menu vhm-item"><span></span></div>
 					</div>
 					<div class="inner-wrapper vhm">
-						<ul class="navigation vhm-item">
-							<li class="animated">
-								<a class="active-nav navigation-link home hvr-shutter-out-vertical" href="#home" data-page="home.html" title="Home">Home</a>
-							</li>
-							<li class="animated">
-								<a class="navigation-link hvr-shutter-out-vertical" href="#about" data-page="about-us.html" title="About Us">About Us</a>
-							</li>
-							<li class="animated">
-								<a class="navigation-link hvr-shutter-out-vertical" href="#portfolio" data-page="portfolio.html" title="Portfolio">Portfolio</a>
-							</li>
-							<li class="animated">
-								<a class="navigation-link hvr-shutter-out-vertical" href="#contact-us" data-page="contact-us.html" title="Contact Us">Contact Us</a>
-							</li>
-							<li class="animated">
-								<a class="navigation-link hvr-shutter-out-vertical" href="#subscribe" data-page="subscribe.html" title="Subscribe">Subscribe</a>
-							</li>
-						</ul>
+{{--						<ul class="navigation vhm-item">--}}
+{{--							<li class="animated">--}}
+{{--								<a class="active-nav navigation-link home hvr-shutter-out-vertical" href="#home" data-page="home.html" title="Home">Home</a>--}}
+{{--							</li>--}}
+{{--							<li class="animated">--}}
+{{--								<a class="navigation-link hvr-shutter-out-vertical" href="#about" data-page="about-us.html" title="About Us">About Us</a>--}}
+{{--							</li>--}}
+{{--							<li class="animated">--}}
+{{--								<a class="navigation-link hvr-shutter-out-vertical" href="#portfolio" data-page="portfolio.html" title="Portfolio">Portfolio</a>--}}
+{{--							</li>--}}
+{{--							<li class="animated">--}}
+{{--								<a class="navigation-link hvr-shutter-out-vertical" href="#contact-us" data-page="contact-us.html" title="Contact Us">Contact Us</a>--}}
+{{--							</li>--}}
+{{--							<li class="animated">--}}
+{{--								<a class="navigation-link hvr-shutter-out-vertical" href="#subscribe" data-page="subscribe.html" title="Subscribe">Subscribe</a>--}}
+{{--							</li>--}}
+{{--						</ul>--}}
 
 						<div class="social-icon-wrp mob">
 
