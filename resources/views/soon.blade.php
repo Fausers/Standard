@@ -145,7 +145,7 @@ LAYOUT : 5
 								</section>
 
 								<!-- CLOCK -->
-								<div id="countdown_dashboard" data-wow-delay="0.2" data-day="1" data-month="6" data-year="2025"
+								<div id="countdown_dashboard" data-wow-delay="0.2" data-day="1" data-month="7" data-year="2025"
 								data-hr="0" data-min="0" data-sec="0">
 
 									<div class="inner-dashboard">
